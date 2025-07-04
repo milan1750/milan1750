@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Milan Malla - a developer working with PHP Since 2015. I was involved into development of many PHP Projects based on Codeigniter, Laravel and Wordpress, that have a huge user base and great WordPress ecosystem impact. Currently im working with [Everest Forms](https://wpeverest.com/wordpress-plugins/everest-forms) A drag and drop WordPress form builder.
+I'm Milan Malla - a developer working with PHP Since 2015. I im involved into development of many PHP Projects based on Codeigniter, Laravel and Wordpress, that have a huge user base and great WordPress ecosystem impact. I was a team lead at [Everest Forms](https://wpeverest.com/wordpress-plugins/everest-forms) A drag and drop WordPress form builder.
 ### Get in touch
 - Twitter: https://twitter.com/immilanmalla
 - WP.org: https://profiles.wordpress.org/milan1750/
